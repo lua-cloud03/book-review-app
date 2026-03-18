@@ -58,6 +58,8 @@
 
 [![App Demo](./app-registration.png)](./app-registration.webm)
 
+> If the video does not preview directly on GitHub, click the image to download and view locally.
+
 ### Backend Connected to Database
 ![Backend DB](./backend-db-connection.png)
 
