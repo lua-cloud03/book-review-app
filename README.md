@@ -25,7 +25,7 @@ This project demonstrates the deployment of a scalable and secure 3-tier archite
 ## 🎥 Application Demo
 
 👉 Download and view demo:  
-`screenshots/your-video-name.webm`
+`screenshots/app-registration.webm`
 
 ---
 
