@@ -54,7 +54,9 @@
 ## 🚀 Application Deployment
 
 ### Application Access (via ALB)
-![App](./app-registration.webm)
+🎥 **App Demo (Registration Flow)**  
+
+[![App Demo](./app-registration.png)](./app-registration.webm)
 
 ### Backend Connected to Database
 ![Backend DB](./backend-db-connection.png)
