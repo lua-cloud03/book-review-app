@@ -1,3 +1,37 @@
+
+# 🚀 Capstone Project: Production-Style 3-Tier Architecture on AWS
+
+This project demonstrates the deployment of a scalable and secure 3-tier architecture using AWS services, following real-world cloud engineering practices.
+
+## 🧱 Architecture Overview
+
+- **Web Tier**: Next.js app behind Public ALB
+- **Application Tier**: Node.js backend behind Internal ALB
+- **Database Tier**: Amazon RDS (MySQL, Multi-AZ + Read Replica)
+
+## 🔐 Key Features
+
+- Private subnet isolation for backend and database
+- Multi-AZ high availability setup
+- Internal and external load balancing
+- Secure communication between tiers
+- Cost-aware infrastructure lifecycle management
+
+## 📸 Deployment Proof
+
+👉 See full screenshots and validation here:  
+`screenshots/README.md`
+
+## 🎥 Application Demo
+
+👉 Download and view demo:  
+`screenshots/your-video-name.webm`
+
+---
+
+> This project reflects real-world DevOps practices including architecture design, debugging, and cost optimization.
+
+
 ## Capstone Submission (AWS Three-Tier Deployment)
 
 This fork represents my implementation of a production-style three-tier architecture on AWS.
