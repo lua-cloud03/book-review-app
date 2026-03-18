@@ -1,3 +1,17 @@
+## Capstone Submission (AWS Three-Tier Deployment)
+
+This fork represents my implementation of a production-style three-tier architecture on AWS.
+
+- Public ALB → Web Tier (Next.js + Nginx)
+- Internal ALB → App Tier (Node.js backend)
+- RDS MySQL (private subnet, secure access)
+
+The application was fully deployed and validated.  
+AWS resources have been decommissioned after testing due to cost constraints.
+
+Screenshots of the working system and infrastructure are included as proof.
+
+
 # Book Review App
 
 ## Overview
