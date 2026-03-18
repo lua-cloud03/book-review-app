@@ -43,7 +43,7 @@
 
 ## 🛢️ RDS Database (Multi-AZ)
 
-![RDS](./rds-multiaz.png)
+![RDS](./rds-multiaz_read_replica.png)
 
 ✔ Multi-AZ enabled for high availability  
 ✔ Private subnet deployment  
