@@ -54,7 +54,7 @@
 ## 🚀 Application Deployment
 
 ### Application Access (via ALB)
-![App](./app-registration.png)
+![App](./app-registration.webm)
 
 ### Backend Connected to Database
 ![Backend DB](./backend-db-connection.png)
